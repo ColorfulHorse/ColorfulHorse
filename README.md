@@ -26,13 +26,13 @@ I'm an Android developer from China.
 
 </br>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ColorfulHorse&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ColorfulHorse&layout=compact&theme=default&hide_border=true" /></a> |
+| <a href="https://github.com/ColorfulHorse"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ColorfulHorse&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/ColorfulHorse"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ColorfulHorse&layout=compact&theme=default&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ### Top Repositories
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/ColorfulHorse/Ruminer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ColorfulHorse&repo=Ruminer&theme=default" />
 </a>
 
