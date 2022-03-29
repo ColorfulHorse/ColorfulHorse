@@ -2,14 +2,14 @@
 
 I'm an Android developer from China.
 
-**About me**
+### About me
 
 - 💼 Android Engineer at [Pudu](https://www.pudutech.com/)
 
 - ❤️ I love writing Kotlin, but also enthusiasm for cpp and Typescript  
 </br>
 
-**Tech stack**
+### Tech stack
 
 <p align="center">
   <img alt="Java" src="https://img.shields.io/badge/Java-b07219?style=flat&logo=java&logoColor=white">
@@ -29,7 +29,7 @@ I'm an Android developer from China.
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ColorfulHorse&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ColorfulHorse&layout=compact&theme=default&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
+### Top Repositories
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
