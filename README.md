@@ -4,9 +4,9 @@ I'm an Android developer from China.
 
 ### About me
 
-- 💼 Android Engineer at [Pudu](https://www.pudutech.com/)
+- 💼 Android Engineer at [mucang](https://www.mucang.cn/)
 
-- ❤️ I love writing Kotlin, but also enthusiasm for cpp and Typescript  
+- ❤️ Love writing Kotlin, but also enthusiast of Cpp and Typescript
 </br>
 
 ### Tech stack
