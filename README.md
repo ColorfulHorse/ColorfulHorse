@@ -6,7 +6,7 @@ I'm an Android developer from China.
 
 - 💼 An Android Engineer working for [mucang](https://www.mucang.cn/)
 
-- ❤️ Love writing Kotlin, also enthusiast of Cpp and Typescript
+- ❤️ Love writing Kotlin, also enthusiastic about Cpp and Typescript
 </br>
 
 ### Tech stack
